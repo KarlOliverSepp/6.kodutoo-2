@@ -11,7 +11,7 @@ body{
 }
 
 .intro-image{
-    background-image: linear-gradient(to bottom right, #c29fa38e,#eaefef92), url('/img/1.jpg');
+    background-image: linear-gradient(to bottom right, #c29fa38e,#eaefef92), url('../img/1.jpg');
     background-size: cover;
     height: 600px;
     display: flex;
@@ -98,7 +98,7 @@ body{
 
 .packaging-image{
     height: 650px;
-    background-image: url('/img/2.jpg');
+    background-image: url('../img/2.jpg');
     background-size: cover;
     background-position: center;
     display: flex; 
